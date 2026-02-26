@@ -3,8 +3,12 @@
 !.gitignore
 !README.md
 
-!template.typ
+!templates_res/
+!templates_res/*
+
+!template_notes.typ
 !template_dm.typ
 !template_fiche.typ
 !template_tp.typ
+!template_report.typ
 !vocabulary.typ
