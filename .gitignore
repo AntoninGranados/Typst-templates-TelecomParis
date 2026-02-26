@@ -5,6 +5,8 @@
 
 !templates_res/
 !templates_res/*
+!templates_examples/
+!templates_examples/*
 
 !template_notes.typ
 !template_dm.typ
