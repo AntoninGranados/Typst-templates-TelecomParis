@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+
+!template.typ
+!template_dm.typ
+!template_fiche.typ
+!template_tp.typ
+!vocabulary.typ
