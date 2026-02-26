@@ -5,7 +5,7 @@
   student_name: "Antonin", student_mail: "antonin@example.com" /*optional*/,
   supervisor_name: "Supervisor" /*optional*/,
   course_name: "Course XXX" /*optional*/, date: "01/01/2026" /*optional*/,
-  header_content: [#lorem(150)] /*optional*/
+  header_content: lorem(150) /*optional*/
 )
 
 = First section
