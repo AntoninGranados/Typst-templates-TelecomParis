@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+!README.md
 
 !template.typ
 !template_dm.typ
