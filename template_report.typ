@@ -29,7 +29,7 @@
   show outline.entry: it => pad(left: 2em * (it.level - 1), it)
 
   // LOGO
-  move(dx: -1em, dy: 0em, image("templates_res/logo_tp.svg", width: 20%))
+  move(dx: -1em, dy: 0em, image("templates_res/logo_school.svg", width: 20%))
   v(-10em)
 
   // HEADER PAGE

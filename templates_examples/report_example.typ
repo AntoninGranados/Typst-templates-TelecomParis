@@ -16,7 +16,7 @@
 ]
 
 #figure(
-  image("../templates_res/logo_tp.svg", width: 30%),
+  image("../templates_res/logo_school.svg", width: 30%),
   caption: [Logo of Télécom Paris #footnote[This comes from this webpage: #link("https://www.telecom-paris.fr/fr/ecole/bref/logos")[Logotypes TP]]]
 )
 
